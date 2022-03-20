@@ -175,3 +175,7 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+.heroimage {
+    max-width: 500px;
+}
